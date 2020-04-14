@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+body {
+  background-image: url("https://cdn2.vectorstock.com/i/1000x1000/10/66/green-leaves-with-abstract-natural-background-vector-12421066.jpg");
+  background-size: cover;
+  background-color: transparent;
+}
+
+.App-header {
+  /* background-color: #282c34; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(0, 0, 0);
+}
+Form.Control {
+  width: 50px;
+}
+Form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.btn {
+  display: flex;
+  align-content: center;
+}
+.lab {
+  font-size: calc(15px + 2vmin) !important;
+}
+.cart {
+  width: auto;
+  margin: 0 10px !important;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+/* Card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+} */
